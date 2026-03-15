@@ -1,30 +1,66 @@
-# Welcome to My GitHub Profile 
+# 👋 Welcome
 
-## About Me 🪄
-I’m a SOC Analyst with over two years of experience in cybersecurity, specializing in Security Operations Center operations.<br>My primary focus is Cyber Threat Intelligence (CTI), where I uncover actionable insights to counter cyber threats.<br>This repository is dedicated exclusively to CTI, highlighting my work in threat intelligence gathering, analysis, and sharing.
+```
+ ██╗ ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+ ██║██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ ██║██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+ ██║██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+ ██║╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+ ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-I’m committed to continuous learning, staying ahead of evolving cybersecurity challenges.
+**Cyber Threat Intelligence** | **Tool Builder**
 
-## Expertise
-- SOC Operations  
-- Cyber Threat Intelligence (CTI): Dark web monitoring, threat actor profiling, and open-source intelligence collection  
-- Phishing Analysis: Identifying and mitigating targeted attacks  
+4+ years in cybersecurity operations. I build the tools I need, then open-source them.
 
-## CTI Resources
-Below is a curated list of resources I monitor for CTI. Contributions are welcome!
+---
 
-| Resource Name       | Description                          | Status |
-|---------------------|--------------------------------------|--------|
-| Venarix             | CTI updates via Telegram            | ACTIVE |
-| DarkPool            | Dark web forum for threat tracking  | DOWN   |
+## 🔧 My Projects
 
-*Note*: This is a sample; I regularly validate indicators like URLs and hashes.
+### [IOC Triage Suite](available soon)
+All-in-one CLI toolkit for phishing triage and IP threat intelligence.
+- **Domain Triage** — 11 threat feeds, 8 APIs (VT, AbuseIPDB, Shodan, Censys, OTX, FOFA, Google Safe Browsing), redirect chain tracking, HTML phishing indicators, favicon hash matching, SSL/crt.sh analysis, Levenshtein brand detection, typosquatting, curl artifact capture
+- **IP Deep Intel** — 10 IP feeds, 7 APIs + passive DNS replication (6 sources), JARM fingerprint, SSL cert pivoting, C2 panel detection, neighborhood scoring, MITRE ATT&CK mapping, APT group attribution, IOC relationship graph
+- **Output** — Full terminal report, JSON, CSV, STIX 2.1 bundle
+- `Python` `OSINT` `Threat Intelligence` `STIX` `Phishing`
 
-## Work in Progress 👷
-This repository is under active development, with plans for detailed CTI reports and automation tools. Updates coming soon.
+### [Phantom Recon](available soon)
+Stealth reconnaissance framework for external attack surface mapping.
+- `Recon` `OSINT` `Attack Surface`
 
-## My OSINT Collection 👀
-Explore my curated list of OSINT tools and resources: [CTI Tool](https://start.me/p/xjkjND/cti-tool)
+---
 
-## Disclaimer 🔴
-**All links are provided for informational and educational purposes only. I do not endorse or promote external content and take no responsibility for its availability, accuracy, or legality. Use at your own risk.**
+## 🎯 Expertise
+
+**SOC Operations** — Triage, incident response, alert investigation, SIEM correlation
+
+**Cyber Threat Intelligence** — Dark web monitoring, threat actor profiling, campaign tracking, IOC enrichment, APT attribution, MITRE ATT&CK mapping, STIX/TAXII
+
+**Phishing Analysis** — Email header forensics, credential harvesting detection, redirect chain analysis, brand impersonation identification, infrastructure mapping
+
+**Tool Development** — Python automation for TI workflows, API integration, threat feed aggregation, OSINT tooling
+
+---
+
+## 📡 CTI Resources
+
+Curated list of sources I monitor. Contributions welcome.
+
+| Resource | Description | Status |
+|----------|-------------|--------|
+| Venarix | CTI updates via Telegram | 🟢 ACTIVE |
+| DarkPool | Dark web forum for threat tracking | 🔴 DOWN |
+
+*Regularly validated — URLs, hashes, and IOCs are checked for freshness.*
+
+---
+
+## 🔗 OSINT Collection
+
+Explore my curated toolkit: **[CTI Tool]()**
+
+---
+
+## 🔴 Disclaimer
+
+**All links, tools, and resources are provided for informational and educational purposes only. I do not endorse or promote external content and take no responsibility for its availability, accuracy, or legality. These tools are intended for authorized defensive security operations. Use at your own risk.**
