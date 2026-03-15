@@ -57,7 +57,7 @@ Curated list of sources I monitor. Contributions welcome.
 
 ## 🔗 OSINT Collection
 
-Explore my curated toolkit: **[CTI Tool]()**
+Explore my curated toolkit: **[CTI Tool](https://start.me/p/jvMMr6/cti-hunt)**
 
 ---
 
