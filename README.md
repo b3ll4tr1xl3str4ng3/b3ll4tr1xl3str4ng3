@@ -1,13 +1,6 @@
 # 👋 Welcome
 
 ```
- ██╗ ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
- ██║██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
- ██║██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
- ██║██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
- ██║╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
- ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
 
 **Cyber Threat Intelligence** | **Tool Builder**
 
@@ -37,8 +30,6 @@ Stealth reconnaissance framework for external attack surface mapping.
 **Cyber Threat Intelligence** — Dark web monitoring, threat actor profiling, campaign tracking, IOC enrichment, APT attribution, MITRE ATT&CK mapping, STIX/TAXII
 
 **Phishing Analysis** — Email header forensics, credential harvesting detection, redirect chain analysis, brand impersonation identification, infrastructure mapping
-
-**Tool Development** — Python automation for TI workflows, API integration, threat feed aggregation, OSINT tooling
 
 ---
 
